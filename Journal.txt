@@ -1,0 +1,8 @@
+=================================
+Name: Haasini
+Date: 16.06.2026
+Problem Number: 3668
+Difficulty Level: EASY
+Topics Covered: ARRAY
+=================================
+
